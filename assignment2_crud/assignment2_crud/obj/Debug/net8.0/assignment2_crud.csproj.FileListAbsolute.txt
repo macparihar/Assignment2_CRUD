@@ -1,0 +1,5 @@
+C:\Users\micmi\source\repos\assignment2_crud\assignment2_crud\obj\Debug\net8.0\assignment2_crud.csproj.AssemblyReference.cache
+C:\Users\micmi\source\repos\assignment2_crud\assignment2_crud\obj\Debug\net8.0\assignment2_crud.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micmi\source\repos\assignment2_crud\assignment2_crud\obj\Debug\net8.0\assignment2_crud.AssemblyInfoInputs.cache
+C:\Users\micmi\source\repos\assignment2_crud\assignment2_crud\obj\Debug\net8.0\assignment2_crud.AssemblyInfo.cs
+C:\Users\micmi\source\repos\assignment2_crud\assignment2_crud\obj\Debug\net8.0\assignment2_crud.csproj.CoreCompileInputs.cache
